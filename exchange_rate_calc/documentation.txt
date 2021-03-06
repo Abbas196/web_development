@@ -1,0 +1,1 @@
+This project is based on HTML, CSS and Javascript. An exchange rate calculator has been made using the concepts like fetch api.
